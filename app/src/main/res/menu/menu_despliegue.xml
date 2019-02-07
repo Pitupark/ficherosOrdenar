@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemAlfa"
+        android:title="Ordenar A-Z">
+    </item>
+    <item
+        android:id="@+id/itemnoAlfa"
+        android:title="Ordenar Z-A">
+    </item>
+</menu>
